@@ -1,2 +1,4 @@
-# sensor-projects-with-raspberry-pi
+# Title: Sensor Projects with Raspberry Pi
+
+# Publisher: Apress
  
