@@ -4,4 +4,4 @@
 
 # Publisher: Apress
  
-![Cover]([url completa de la imagen](https://github.com/guillengap/sensor-projects-with-raspberry-pi/blob/main/images/book_cover.jpg))
+![Cover](https://github.com/guillengap/sensor-projects-with-raspberry-pi/blob/main/images/book_cover.jpg))
